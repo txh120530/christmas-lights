@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/christmas-lights/static/css/main.6b241258.chunk.css",
+    "main.js": "/christmas-lights/static/js/main.5912b689.chunk.js",
+    "main.js.map": "/christmas-lights/static/js/main.5912b689.chunk.js.map",
+    "runtime-main.js": "/christmas-lights/static/js/runtime-main.a930ca0e.js",
+    "runtime-main.js.map": "/christmas-lights/static/js/runtime-main.a930ca0e.js.map",
+    "static/js/2.f2b41842.chunk.js": "/christmas-lights/static/js/2.f2b41842.chunk.js",
+    "static/js/2.f2b41842.chunk.js.map": "/christmas-lights/static/js/2.f2b41842.chunk.js.map",
+    "static/js/3.40b3b6ff.chunk.js": "/christmas-lights/static/js/3.40b3b6ff.chunk.js",
+    "static/js/3.40b3b6ff.chunk.js.map": "/christmas-lights/static/js/3.40b3b6ff.chunk.js.map",
+    "index.html": "/christmas-lights/index.html",
+    "static/css/main.6b241258.chunk.css.map": "/christmas-lights/static/css/main.6b241258.chunk.css.map",
+    "static/js/2.f2b41842.chunk.js.LICENSE.txt": "/christmas-lights/static/js/2.f2b41842.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a930ca0e.js",
+    "static/js/2.f2b41842.chunk.js",
+    "static/css/main.6b241258.chunk.css",
+    "static/js/main.5912b689.chunk.js"
+  ]
+}
