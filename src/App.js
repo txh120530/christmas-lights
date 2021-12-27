@@ -27,7 +27,17 @@ const getRand = () => {
   return (
 
     <div>
-      
+
+     <LightContainer 
+        lightRows={lightRows}
+        lightCount={lightCount}
+        lightIntensity={lightIntensity}
+        lightSize={lightSize}
+        lightColors={lightColors} 
+        lightTime={lightTime}
+        lightToggle={lightToggle}
+      />
+
 
       <ChristmasForm 
       lightRows={lightRows}
@@ -47,15 +57,7 @@ const getRand = () => {
       />
       
 
-      <LightContainer 
-        lightRows={lightRows}
-        lightCount={lightCount}
-        lightIntensity={lightIntensity}
-        lightSize={lightSize}
-        lightColors={lightColors} 
-        lightTime={lightTime}
-        lightToggle={lightToggle}
-      />
+     
 
     </div>
   );
